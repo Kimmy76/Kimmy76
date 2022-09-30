@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kimmy76
 - 👀 I’m interested in making websites and apps
 - 🌱 I’m currently learning making drawings with code
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on a cool app
 - 📫 How to reach me kimberlyvdll@outlook.com
 
 <!---
